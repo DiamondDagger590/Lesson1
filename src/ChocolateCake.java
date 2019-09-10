@@ -1,2 +1,2 @@
-public class ChocolateCake {
+public class ChocolateCake implements Cake {
 }
